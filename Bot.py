@@ -22,7 +22,7 @@ API_HASH = "4c7b651950ed7f53520e66299453144d"
 BOT_TOKEN = "8491774226:AAHvZR02IZ4lhUAmgFCuCOAYE9atAmbcYKc"
 
 # ⚠️ ВАЖНО: Получите ключ на https://platform.deepseek.com/api_keys
-DEEPSEEK_API_KEY = "sk-ваш_ключ_с_платформы_deepseek"
+DEEPSEEK_API_KEY = "sk-86108094ebef4da4845181f7b37469af"
 
 # Применяем nest_asyncio для Bothost
 nest_asyncio.apply()
